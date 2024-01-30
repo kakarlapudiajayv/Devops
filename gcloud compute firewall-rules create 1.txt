@@ -1,0 +1,2 @@
+gcloud compute firewall-rules create rule1 --allow tcp:8080
+gcloud compute firewall-rules create rule2 --allow tcp:9090
